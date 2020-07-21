@@ -2,7 +2,7 @@
 
 Je m'appelle Romain, je suis ingénieur en informatique, avec 15 ans d'expérience en développement et gestion de projets.
 
-- 💬 Disponible pour des missions React / Node / Fullstack à partir de Spetembre 2020
+- 💬 Disponible pour des missions React / Node / Fullstack à partir de Septembre 2020
 <!-- - 📫 Pour me joindre : [contact@kromatic.fr](mailto:contact@kromatic.fr) -->
 - 🌐 Plus d'informations sur [kromatic.fr](https://kromatic.fr)
 
