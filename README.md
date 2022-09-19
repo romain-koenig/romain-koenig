@@ -1,9 +1,7 @@
-### Bienvenue sur mon profil GitHub 👋
-
-Je m'appelle Romain, je suis ingénieur en informatique, avec 15 ans d'expérience en développement et gestion de projets.
+### Welcome to my GitHub Profile 👋
 
 <!-- - 📫 Pour me joindre : [contact@kromatic.fr](mailto:contact@kromatic.fr) -->
-- 🌐 Plus d'informations sur [kromatic.fr](https://kromatic.fr)
+- 🌐 More info about me on [kromatic.fr](https://kromatic.fr)
 
 <!--
 **romain-koenig/romain-koenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
