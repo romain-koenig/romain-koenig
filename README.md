@@ -2,6 +2,7 @@
 
 <!-- - 📫 Pour me joindre : [contact@kromatic.fr](mailto:contact@kromatic.fr) -->
 - 🌐 More info about me on [kromatic.fr](https://kromatic.fr)
+- 💻 Shortcut: [Pernod Ricard Enterprrise account](https://github.com/enterprises/pernod-ricard)
 
 <!--
 **romain-koenig/romain-koenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
