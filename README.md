@@ -1,20 +1,31 @@
-### Welcome to my GitHub Profile 👋
+## 👋 Hi, I'm Romain
 
-<!-- - 📫 Pour me joindre : [contact@kromatic.fr](mailto:contact@kromatic.fr) -->
-- 🌐 More info about me on [kromatic.fr](https://kromatic.fr)
-- 💻 Shortcut: [Pernod Ricard Enterprise account](https://github.com/enterprises/pernod-ricard)
+Independent IT consultant working at the intersection of  
+**platform governance · developer experience · coordination of complex IT initiatives**
 
-<!--
-**romain-koenig/romain-koenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help organisations bring clarity to messy tech landscapes,  
+align teams, and build pragmatic tools to support decision-making.
 
-Here are some ideas to get you started:
+### 🧭 Current ecosystems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Kromatic**  
+Personal consulting activity focused on long-term coordination missions in large IT departments.
+
+**Solydev**  
+Co-founded tech studio delivering AI engineering, lightweight digital products, automation and pragmatic engineering support.
+
+**Client environments**  
+Interventions on topics such as:
+
+- GitHub Enterprise governance & DevSecOps practices  
+- platform usage analysis (Copilot, security, FinOps)  
+- automation scripts, internal tooling, data pipelines  
+- cross-team facilitation and technical decision support  
+
+### 🌐 More about my work  
+➡️ https://solydev.com    
+➡️ https://kromatic.fr    
+➡️ https://romainkoenig.com  
+
+### 🏢 Example enterprise context  
+➡️ https://github.com/enterprises/pernod-ricard
